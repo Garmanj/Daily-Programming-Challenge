@@ -1,0 +1,7 @@
+C:\Users\Crin\source\repos\1-Convert Minutes into Seconds\1-Convert Minutes into Seconds\bin\Debug\1-Convert Minutes into Seconds.exe.config
+C:\Users\Crin\source\repos\1-Convert Minutes into Seconds\1-Convert Minutes into Seconds\bin\Debug\1-Convert Minutes into Seconds.exe
+C:\Users\Crin\source\repos\1-Convert Minutes into Seconds\1-Convert Minutes into Seconds\bin\Debug\1-Convert Minutes into Seconds.pdb
+C:\Users\Crin\source\repos\1-Convert Minutes into Seconds\1-Convert Minutes into Seconds\obj\Debug\1-Convert Minutes into Seconds.csprojResolveAssemblyReference.cache
+C:\Users\Crin\source\repos\1-Convert Minutes into Seconds\1-Convert Minutes into Seconds\obj\Debug\1-Convert Minutes into Seconds.csproj.CoreCompileInputs.cache
+C:\Users\Crin\source\repos\1-Convert Minutes into Seconds\1-Convert Minutes into Seconds\obj\Debug\1-Convert Minutes into Seconds.exe
+C:\Users\Crin\source\repos\1-Convert Minutes into Seconds\1-Convert Minutes into Seconds\obj\Debug\1-Convert Minutes into Seconds.pdb
